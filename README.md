@@ -139,6 +139,7 @@ A lista acima foi retirada do post fixo do grupo Arduino Br. Agradecemos ao Melq
   * [Codilab Oficial](https://t.me/joinchat/EVvVMVCiA8I3YjAx)
   * [Fernando K](https://t.me/fernandok_oficial)
   * [Makers de Internet das Coisas](https://telegram.me/joinchat/A2gMUQLKZ1MnyZOhpX2-yA)
+* [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — Free in-browser memorial shadow box maker: type a pet's or someone's name and see the keepsake instantly, no signup. MIT-licensed, standard-library-only Python generator behind it that produces 7-layer shadow-box SVGs with an editable name plate, plus 6500px PNG renders. [Try the free maker](https://airdropia.github.io/auto-earn-engine/maker/).
 
 ## Fóruns
 
